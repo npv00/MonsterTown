@@ -18,7 +18,7 @@ print(myTownSize)
 
 popIncrease = 500
 
-print("oh boy github... gotta love it")
+print("oh boy github... gotta love it!!!")
 
 myTown.changePopulation(amount: popIncrease)
 myTown.printDescription()
