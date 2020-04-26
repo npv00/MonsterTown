@@ -38,7 +38,7 @@ fredTheZombie.town?.printDescription()
 myTown.printDescription() // NOTE two instances of town freds and mytown they are not then same
 
 //fredTheZombie.setNoise(newNoise: "growl")
-fredTheZombie.someNoise = "fart"
+fredTheZombie.someNoise = "farting "
 fredTheZombie.makeNoise()
 
 print("Victim pool: \(fredTheZombie.victimPool)")
