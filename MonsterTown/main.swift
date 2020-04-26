@@ -18,7 +18,7 @@ print(myTownSize)
 
 popIncrease = 500
 
-print("oh boy github... gotta love it!!!")
+print("oh boy github... gotta love it")
 
 myTown.changePopulation(amount: popIncrease)
 myTown.printDescription()
@@ -38,7 +38,7 @@ fredTheZombie.town?.printDescription()
 myTown.printDescription() // NOTE two instances of town freds and mytown they are not then same
 
 //fredTheZombie.setNoise(newNoise: "growl")
-fredTheZombie.someNoise = "farting "
+fredTheZombie.someNoise = "fart"
 fredTheZombie.makeNoise()
 
 print("Victim pool: \(fredTheZombie.victimPool)")
